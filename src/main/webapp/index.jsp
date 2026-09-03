@@ -390,7 +390,7 @@ gap:10px;
 <span class="badge-new">2026 Collection</span>
 
 <h1>Future of Online Shopping</h1>
-<h1>I am Web Developer </h1>
+<h1>I am Web Developer and devops engineer </h1>
 
 <p>Discover premium gadgets, fashion, lifestyle and AI powered shopping experience with beautiful animations.</p>
 
