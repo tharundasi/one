@@ -349,10 +349,10 @@ gap:10px;
 
 <nav class="navbar navbar-expand-lg fixed-top glass-nav">
 <div class="container">
-<a class="navbar-brand" href="#"><i class="fa-solid fa-bag-shopping"></i> NexusShop</a>
+<a class="navbar-brand" href="#"><em class="fa-solid fa-bag-shopping"></em> NexusShop</a>
 
 <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu">
-<i class="fa-solid fa-bars text-white"></i>
+<em class="fa-solid fa-bars text-white"></em>
 </button>
 
 <div class="collapse navbar-collapse" id="menu">
@@ -365,16 +365,16 @@ gap:10px;
 
 <div class="d-flex align-items-center gap-2">
 <div class="search-box">
-<i class="fa fa-search"></i>
+<em class="fa fa-search"></em>
 <input id="searchInput" placeholder="Search...">
 </div>
 
 <button class="icon-btn">
-<i class="fa-regular fa-heart"></i>
+<em class="fa-regular fa-heart"></em>
 </button>
 
 <button class="icon-btn cart-btn">
-<i class="fa-solid fa-cart-shopping"></i>
+<em class="fa-solid fa-cart-shopping"></em>
 <span id="cartCount">0</span>
 </button>
 </div>
