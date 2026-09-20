@@ -409,7 +409,7 @@ gap:10px;
 <div class="col-lg-6">
 <div class="hero-image">
 <div class="glow-ring"></div>
-<img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=700">
+<img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=700" alt = "IMAGE">
 </div>
 </div>
 
